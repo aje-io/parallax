@@ -1,0 +1,16 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d explore"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/ajejhnz/parallax",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
